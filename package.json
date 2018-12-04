@@ -12,6 +12,6 @@
   "devDependencies": {
     "mocha": "^5.2.0",
     "puppeteer": "^1.10.0",
-    "showroom": "^0.7.2"
+    "showroom": "latest"
   }
 }
