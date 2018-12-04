@@ -13,5 +13,8 @@
     "mocha": "^5.2.0",
     "puppeteer": "^1.10.0",
     "showroom": "latest"
+  },
+  "dependencies": {
+    "slim-js": "^4.0.5"
   }
 }
